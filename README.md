@@ -59,3 +59,10 @@ git clone https://github.com/zech12and8/cyber-hunter-study-guide.git
 cd cyber-hunter-study-guide
 open index.html   # or double-click the file
 
+₿ Bitcoin	12Um8sPvrFE3hLQ4ERTiK3xtX4XmrcrLpv
+💛 PayPal	paypal.me/DPoolerJr
+📝 IT/SOC Blog	poolersoccs.blogspot.com
+
+Donations help fund study materials, hardware for labs, and continued updates.
+Thank you!
+
