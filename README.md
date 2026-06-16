@@ -47,17 +47,6 @@ No fluff. Just clear explanations, tables, and examples.
 
 ---
 
-## 🚀 Quick Start
-
-### Option 1: View Online
-Simply open the `index.html` file in any modern browser.
-
-### Option 2: Clone & Run Locally
-
-```bash
-git clone https://github.com/zech12and8/cyber-hunter-study-guide.git
-cd cyber-hunter-study-guide
-open index.html   # or double-click the file
 
 ₿ Bitcoin	12Um8sPvrFE3hLQ4ERTiK3xtX4XmrcrLpv
 💛 PayPal	paypal.me/DPoolerJr
